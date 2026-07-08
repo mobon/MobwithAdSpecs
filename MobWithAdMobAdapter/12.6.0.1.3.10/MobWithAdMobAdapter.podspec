@@ -20,7 +20,7 @@ DESC
   
   s.vendored_frameworks = 'MobWithAdMobAdapter.xcframework'
 
-  s.dependency 'MobWithAdSDK', '~> 1.3.4'
-  s.dependency 'Google-Mobile-Ads-SDK', '~> 12.14'
+  s.dependency 'MobWithAdSDK', '~> 1.3.10'
+  s.dependency 'Google-Mobile-Ads-SDK', '~> 12.6'
   
 end
