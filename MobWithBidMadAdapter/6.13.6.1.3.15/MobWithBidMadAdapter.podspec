@@ -29,6 +29,6 @@ DESC
   }
 
 
-  s.dependency 'MobWithAdSDK', '= 1.3.15'
+  s.dependency 'MobWithAdSDK', '~> 1.3.15'
   
 end
