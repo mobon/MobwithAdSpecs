@@ -32,5 +32,7 @@ DESC
   s.dependency 'MobWithAdSDK', '= 1.3.14'
   s.dependency 'BidmadSDK/core', '= 6.13.6'
   s.dependency 'OpenBiddingHelper', '= 6.13.2'
+  s.dependency 'BidmadGoogleAdManagerAdapter', '= 12.6.0.12.1'
+  s.dependency 'BidmadGoogleAdMobAdapter', '= 12.6.0.12.1'
   
 end
