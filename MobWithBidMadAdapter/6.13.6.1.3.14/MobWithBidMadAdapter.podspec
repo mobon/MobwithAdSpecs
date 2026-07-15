@@ -29,7 +29,7 @@ DESC
   }
 
 
-  s.dependency 'MobWithAdSDK', '~> 1.3.14'
+  s.dependency 'MobWithAdSDK', '= 1.3.14'
   # s.dependency 'BidmadSDK/core', '= 6.13.3'
   # s.dependency 'OpenBiddingHelper', '= 6.13.2'
   
