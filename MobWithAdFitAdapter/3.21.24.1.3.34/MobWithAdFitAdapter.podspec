@@ -20,6 +20,6 @@ DESC
 
   s.vendored_frameworks = 'MobWithAdFitAdapter.xcframework', 'AdFitSDK.xcframework'
 
-  s.dependency 'MobWithAdSDK', '~> 1.3.34'
+  s.dependency 'MobWithAdSDK', '~> 1.3.32'
 
 end
