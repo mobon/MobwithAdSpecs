@@ -15,7 +15,7 @@ DESC
     :tag => s.version.to_s
   }
 
-  s.platform = :ios, "15.6"
+  s.platform = :ios, "15.0"
 
   s.vendored_frameworks = 'MobWithADSDKFramework.xcframework'
   
